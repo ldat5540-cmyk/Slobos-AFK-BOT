@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "Bot",
   "bot-account": {
     "username": "AFreeKey",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "choivuive123.aternos.me",
+    "ip": "choivuive123.aternos.me:63284",
     "port": 63284,
     "version": "1.21.4"
   },
