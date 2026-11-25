@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "AFreeKey",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "choivuive123.aternos.me",
-    "port": 63284,
+    "ip": "solarempire895.mcsh.gg",
+    "port": 25565,
     "version": "1.21.4"
   },
   "position": {
